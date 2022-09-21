@@ -1,0 +1,2 @@
+This the sample text in file1
+This is for practice
